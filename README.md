@@ -15,6 +15,8 @@ You’ll write a *fake bot* to say hi when people visit your web page.
 
 ## How this bot should work?
 
+### Normal Mode
+
 Each sentence should appear with one second of delay from last one.
 Then, it must wait for user input.
 And finally, say hello.
@@ -34,6 +36,10 @@ _A text input should appears and ask for User’s name_.
 
 5. Nice to meet you, «Lucy».
 ```
+
+### Explorer Mode
+
++ Add **typing...** like WhatsApp applications does before any message displayed.
 
 ### Lectures
 
